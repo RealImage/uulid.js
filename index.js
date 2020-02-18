@@ -23,7 +23,7 @@ function bytesToUuid(buf, offset) {
 }
 
 // timestamp has to be of RFC3339 format
-function UULIDString(timestamp, content) {
+function UulidString(timestamp, content) {
     let ulid = new Uint8Array(16)
     let time = new DataView(ulid.buffer, 0, 6)
     let rand = new Uint8Array(ulid.buffer, 6, 10)
@@ -44,5 +44,5 @@ function UULIDString(timestamp, content) {
 }
 
 module.exports = {
-    UULIDString
+    UulidString
 }
