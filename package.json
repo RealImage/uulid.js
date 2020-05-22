@@ -1,6 +1,6 @@
 {
   "name": "uulid.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bridge between the UUID and the ULID specifications for creating unique identifiers.",
   "main": "index.js",
   "scripts": {
