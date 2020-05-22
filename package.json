@@ -1,6 +1,6 @@
 {
   "name": "uulid.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bridge between the UUID and the ULID specifications for creating unique identifiers.",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "assert": "^2.0.0",
-    "mocha": "^7.0.1",
+    "mocha": "^7.1.2",
     "moment": "^2.24.0",
     "uuid-validate": "0.0.3"
   }
