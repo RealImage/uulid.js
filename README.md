@@ -1,4 +1,5 @@
 # uulid.js
+![Tests](https://github.com/RealImage/uulid.js/workflows/Tests/badge.svg)
 
 ## Usage
 
